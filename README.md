@@ -25,15 +25,21 @@ All the code is made open source, so that we can contribute and make this a bug 
 
 <img src="https://github.com/imaryandokania/VITgram/blob/master/Prototype/E-ID%20generator.jpeg " width="300" height="500">
 
+--------------
+
 ## Group creation 
 
-![alt text](https://github.com/imaryandokania/VITgram/blob/master/Prototype/Groups.jpeg)
+<img src="https://github.com/imaryandokania/VITgram/blob/master/Prototype/Groups.jpeg" width="300" height="500">
+
+-----------------
 
 ## Messaging page
 
-![alt text](https://github.com/imaryandokania/VITgram/blob/master/Prototype/Instant%20messaging.jpeg)
+<img src="https://github.com/imaryandokania/VITgram/blob/master/Prototype/Instant%20messaging.jpeg" width="300" height="500">
 
+-------------
 
 ## QR Code of profile
 
-![alt text](https://github.com/imaryandokania/VITgram/blob/master/Prototype/qrcodeapi.jpeg)
+<img src="https://github.com/imaryandokania/VITgram/blob/master/Prototype/qrcodeapi.jpeg" width="300" height="500">
+
