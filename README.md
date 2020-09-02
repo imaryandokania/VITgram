@@ -15,6 +15,10 @@ VITgram is a messaging ,socializing app for Students of Vellore Institute of Tec
 This app is currently under development and the repository will be updated frequently.
 All the code is made open source, so that we can contribute and make this a bug free app.
 
+## ANIMATIONS
+
+<img src="https://github.com/imaryandokania/VITgram/blob/master/Prototype/ezgif.com-crop.gif " width="300" height="500">
+
 -------------------------------------------
 ## Profile
 
