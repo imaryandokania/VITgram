@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "808902882102",
+    "firebase_url": "https://vitgram-9fbfb.firebaseio.com",
+    "project_id": "vitgram-9fbfb",
+    "storage_bucket": "vitgram-9fbfb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808902882102:android:c09d51bde97ce5f229b997",
+        "android_client_info": {
+          "package_name": "com.dev.vitgram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "808902882102-mr1repc3p0slfsvi21kpqohf8v1rgtav.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5jkr_JzUT1WyXBCcWOJCwmoQ73nXudFI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "808902882102-mr1repc3p0slfsvi21kpqohf8v1rgtav.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
