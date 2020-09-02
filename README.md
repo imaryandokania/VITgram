@@ -8,8 +8,8 @@ VITgram is a messaging ,socializing app for Students of Vellore Institute of Tec
 - QR Code for every user for attendance
 
 This app is currently under development and the repository will be updated frequently.
-
 All the code is made open source, so that we can contribute and make this a bug free app.
+
 -------------------------------------------
 ## Profile
 
