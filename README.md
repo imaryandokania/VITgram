@@ -23,7 +23,7 @@ All the code is made open source, so that we can contribute and make this a bug 
 
 ## E-ID card
 
-![alt text](https://github.com/imaryandokania/VITgram/blob/master/Prototype/E-ID%20generator.jpeg)
+![alt text](https://github.com/imaryandokania/VITgram/blob/master/Prototype/E-ID%20generator.jpeg =100x50)
 
 ## Group creation 
 
