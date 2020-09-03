@@ -7,6 +7,7 @@
 VITgram is a messaging ,socializing app for Students of Vellore Institute of Technology .It is connected to google firebase.The functions are:
 
 - Google Firebase
+- QR code API
 - Group Chat
 - Personal Chat
 - ID Card Generator
